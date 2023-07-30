@@ -1,0 +1,21 @@
+.banner{text-align: center;
+background-image: url(images/donation4.jpg );width: auto;height: 500;
+padding: 50px 20px 30px ;}
+.donate{background-color: orange;
+border: none ; color: aliceblue;height: 30px;}
+.banner-section{margin-top: 250px;
+color: rgb(127, 255, 148);}
+.donate-today{text-align: center;}
+.tk-ammount{background-color: orange;
+border: none;padding:10px 5px;
+text-align: justify;
+margin: 0px 50px;}
+.donate-plane{display: flex;text-align: center; margin-left: 360px;}
+.donate-plane-name{display: flex;gap: 50px;}
+#h31{background-color: cadetblue;}
+#h32{background-color: #d4a7a7;}
+#h33{background-color: lightblue;}
+.last{text-align: center;row-gap: 10px;}
+#email{background-color:wheat ;border: none;}
+.last-button{ background-color: darkorange;
+border: none;}
